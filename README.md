@@ -1,0 +1,1 @@
+# gg-jetbrains-plugin-core-docs-template
