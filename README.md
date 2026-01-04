@@ -126,12 +126,6 @@ git add .
 
 ---
 
-## 🆓 Free & Open
-
-This plugin is **completely free** with no limitations. Enjoy professional-grade ignore file generation without any paywalls!
-
----
-
 ## 🐛 Issues & Feedback
 
 Have questions? Found a bug? Want to request a feature?
